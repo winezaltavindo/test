@@ -1,1 +1,6 @@
 This is from the hotfix. Everything is okey
+This is the index text
+Usually use for nothing
+
+This is the addition the file actually not needed
+
